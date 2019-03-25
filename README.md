@@ -10,8 +10,8 @@ The CSE/EE Makerspace is open to all currently enrolled UTA CoE students during 
 # Open Hours - Spring 2019
 Open hours for all CoE hours are as follows:
 
-Monday 12:00 - 5:00
 Wednesday 12:00 - 5:00
+Thursday 12:00 - 5:00
 Friday 12:00 - 5:00
 
 Additional availability will be added soon!
