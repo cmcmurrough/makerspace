@@ -7,7 +7,7 @@ The Makerspace is a shared space for equipment, collaboration, and discovery in 
 # Who can use the Makerspace?
 The CSE/EE Makerspace is open to all currently enrolled UTA CoE students during open hours. After hours access via card swipe may be requested and granted on an indivudal basis, email Dr. McMurrough for more info (mcmurrough AT uta.edu)
 
-# Open Hours - Spring 2019
+# Open Hours - Fall 2020
 Open hours for all CoE hours are as follows:
 
 Wednesday 12:00 - 5:00
