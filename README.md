@@ -15,3 +15,6 @@ Thursday 12:00 - 5:00
 Friday 12:00 - 5:00
 
 Additional availability will be added soon!
+
+# Project Funding
+Limited funding is available for cool student projects developed in the makerspace. Email Dr. McMurrough for more information.
